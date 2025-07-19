@@ -18,11 +18,8 @@
 # 🔑 Project Highlights
 
    # ✅ Datasets
-
         Books.csv → Book details (Book_ID, Title, Genre, Price, Stock, Author)
-
         Customers.csv → Customer details (Customer_ID, Name, Email , Phone, Country, City)
-
         Orders.csv → Order details (Order_ID, Book_ID, Customer_ID, Quantity, Order_Date, Total_Amount)
 
 
@@ -54,12 +51,9 @@
 
 #  Repository structure 
    Data : 
-   
-         •	Books.csv →  https://github.com/Sikandarkumar07/SQL_Queries/blob/main/Books.csv
-         
-         •	Customers.csv →  https://github.com/Sikandarkumar07/SQL_Queries/blob/main/Customers.csv  
-         
-         •	Orders.csv →https://github.com/Sikandarkumar07/SQL_Queries/blob/main/Orders.csv 
+    •	Books.csv →  https://github.com/Sikandarkumar07/SQL_Queries/blob/main/Books.csv
+    •	Customers.csv →  https://github.com/Sikandarkumar07/SQL_Queries/blob/main/Customers.csv  
+    •	Orders.csv →https://github.com/Sikandarkumar07/SQL_Queries/blob/main/Orders.csv 
          
   Project :https://github.com/Sikandarkumar07/SQL_Queries/blob/main/SQL%20%E2%80%93%20Project%20on%20SQL%20-%20SOLVED.sql
   
