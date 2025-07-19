@@ -18,9 +18,9 @@
 # 🔑 Project Highlights
 
    # ✅ Datasets
-        Books.csv → Book details (Book_ID, Title, Genre, Price, Stock, Author)
-        Customers.csv → Customer details (Customer_ID, Name, Email , Phone, Country, City)
-        Orders.csv → Order details (Order_ID, Book_ID, Customer_ID, Quantity, Order_Date, Total_Amount)
+       * Books.csv → Book details (Book_ID, Title, Genre, Price, Stock, Author)
+       * Customers.csv → Customer details (Customer_ID, Name, Email , Phone, Country, City)
+       * Orders.csv → Order details (Order_ID, Book_ID, Customer_ID, Quantity, Order_Date, Total_Amount)
 
 
   # ✅ Basic Queries
