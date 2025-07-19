@@ -54,6 +54,7 @@
 
 #  Repository structure 
    Data : 
+   
          •	Books.csv →  https://github.com/Sikandarkumar07/SQL_Queries/blob/main/Books.csv
          
          •	Customers.csv →  https://github.com/Sikandarkumar07/SQL_Queries/blob/main/Customers.csv  
