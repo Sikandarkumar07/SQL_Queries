@@ -62,6 +62,5 @@
 
 # 🤝 Feedback & Collaboration
 
-     Your suggestions and ideas are always welcome.
-     You can collaborate by forking this project, adding new queries, or enhancing the dataset.
-     Feel free to open an issue or a pull request to contribute.
+     If you have any ideas or suggestions, feel free to share them. You can also improve this project and send your changes. I'm happy to connect and work together!
+
